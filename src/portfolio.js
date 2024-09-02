@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     " I’m Beryl, a passionate full-stack developer skilled in leveraging IT innovation for business process re-engineering. I utilize open-source tools like React, Ruby on Rails, and RESTful APIs to enhance operations and user experience. My toolkit includes Git, GitHub, HTML, CSS, Bootstrap, JavaScript, and AngularJS. I also have knowledge of Google Cloud Services, webhooks, and Firebase. Always ready for new challenges and risk management. Feel free to reach out for further queries and consultations. ",
   resumeLink:
-    "https://drive.google.com/file/d/1C7lNSKkFg65NbFVoRETBG5zTOh6AdZaD/view?usp=sharing",
+    "https://drive.google.com/file/d/1bshwqARxAKfR4pd2b6Kr2jeAYYq6QH-7/view",
   portfolio_repository: "https://github.com/Ajowi254",
   githubProfile: "https://github.com/Ajowi254",
 };
@@ -281,6 +281,33 @@ const certifications = {
       color_code: "#8C151599",
     },
     {
+      title: "Artificial Intelligence for Practioners",
+      subtitle: "Safaricom-Percipio",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1Kk9roXFtGg3rD7AJwzo2De5SvI40Q99p/view",
+      alt_name: "Safaricom",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Robotic Process Automation",
+      subtitle: "Safaricom-Percipio",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1OkfZOGINhrUsmOSwLozIVtJy9FqsT0-b/view",
+      alt_name: "Safaricom",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Java Programming",
+      subtitle: "Safaricom-Percipio",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1xLh2TG7QHsVcTqyB1Zjzq5_-6Qmkyg_a/view",
+      alt_name: "Safaricom",
+      color_code: "#0C9D5899",
+    },
+    {
       title: "IT Security",
       subtitle: "Google Coursera",
       logo_path: "google_logo.png",
@@ -333,7 +360,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and  Internship",
   description:
-    "I’ve been actively engaged in various roles across the tech industry, contributing to both startups and established companies. My experience spans from being in Software Developer to  Credit facility support, with a focus on leveraging innovative technologies to drive business growth and process re-engineering.",
+    "I’ve been actively engaged in various roles across the tech industry, contributing to both startups and established companies. My experience spans from being in Software Developer to  IT support, with a focus on leveraging innovative technologies to drive business growth and process re-engineering.",
   header_image_path: "",
   sections: [
     {
@@ -341,23 +368,25 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "FullStack Developer",
-          company: "Freelance",
+          title: "IT Support Engineer",
+          company: "Safaricom (TBM)",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
-          duration: "July 2021 - Present",
+          duration: "AUGUST 2024 - CURRENT",
           location: "Nairobi, Kenya",
           description:
-            "As a freelance fullstack developer, I’ve had the opportunity to work on a variety of projects, consistently expanding my knowledge and skills in different areas of software development. This includes working on projects like the NextGen Food Court, a customizable software developer portfolio, the UTIBU-HEALTH-MOBILE-APP, and LBYM, a budget app.Throughout these experiences, I’ve been able to not only develop technical solutions but also understand the business implications of these solutions.",
+            "As an IT Support Engineer , I provide critical technical support to Safaricom staff nationwide, ensuring their systems operated smoothly and efficiently. I am responsible for monitoring system performance, performing preventive maintenance, and troubleshooting complex issues to minimize downtime.",
           color: "#fc1f20",
         },
         {
-          title: "Credit Facility Support",
+          title: "Full Stack Developer",
+          company: "EngSoft Valley solutions limited",
           company_url: "https://www.tiktok.com/en/",
           logo_path: "legato_logo.png",
+          duration: "July 2021 - July 2024",
           location: "Nairobi, Kenya",
           description:
-            " With my experience here, I’ve been able to apply my understanding of business and finance, gained from my degree and practical experience. This role allowed me to indulge into the financial services industry, enhancing my skills in credit facility operations ranging from financial risk assessment to Maintenance of ERP SACCO Softwares.",
+            " With my experience here, I’ve had the opportunity to work on a variety of projects, consistently expanding my knowledge and skills in different areas of software and mobile development. This includes working on projects like the NextGen Food Court, a customizable software developer portfolio, the UTIBU-HEALTH-MOBILE-APP, and LBYM(a budget app).Throughout these experiences, I’ve been able to not only develop technical solutions but also understand the business implications of these solutions.",
           color: "#000000",
         },
       ],
@@ -366,14 +395,14 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Credit Officer Intern",
+          title: "Developer intern",
           company: "Fountain Credit Services Limited",
           company_url: "https://www.tiktok.com/en/",
           logo_path: "legato_logo.png",
           duration: "Feb 2020 - April 2021",
           location: "Nairobi, Kenya",
           description:
-            "As a Credit Officer Intern at Fountain Credit Services Limited from February 2020 to April 2021, I had the opportunity to immerse myself in the financial services industry. During this period, I was exposed to the knowledge of credit management and financial risk assessment.",
+            "As a Developer Intern at Fountain Credit Services Limited from February 2020 to April 2021, I had the opportunity to immerse myself in the financial services industry and implement my technical skills. During this period, I was exposed to the knowledge of deployment and testing of sacco softwares necessary in credit management.",
           color: "#000000",
         },
       ],
