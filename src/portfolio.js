@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     " I’m Beryl, a passionate full-stack developer skilled in leveraging IT innovation for business process re-engineering. I utilize open-source tools like React, Ruby on Rails, and RESTful APIs to enhance operations and user experience. My toolkit includes Git, GitHub, HTML, CSS, Bootstrap, JavaScript, and AngularJS. I also have knowledge of Google Cloud Services, webhooks, and Firebase. Always ready for new challenges and risk management. Feel free to reach out for further queries and consultations. ",
   resumeLink:
-    "https://drive.google.com/file/d/1bshwqARxAKfR4pd2b6Kr2jeAYYq6QH-7/view",
+    "https://drive.google.com/file/d/1K7X6rmpEfv9iw0Xc5x9QbjxRwTu93i6C/view?usp=drivesdk",
   portfolio_repository: "https://github.com/Ajowi254",
   githubProfile: "https://github.com/Ajowi254",
 };
